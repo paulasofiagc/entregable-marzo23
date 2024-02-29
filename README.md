@@ -1,5 +1,1 @@
-## Para correr el proyecto
-
-`npm install`
-
-`npm run dev`
+**Parcial de Paula Gallardo** ✨🌟💫
